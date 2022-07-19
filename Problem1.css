@@ -1,0 +1,90 @@
+.css_left{
+    float: left;
+    width: 150px;
+    position: absolute;
+    left:300px;
+    top: 200px;
+    height:50px;
+}
+.css_left p
+{
+    float: left;
+    width: 250px;
+    position: absolute;
+    left: -25px;
+}
+.css_mid
+{
+    margin-top: 55px;
+    width: 150px;
+    margin-left: 50%;
+}
+.css_mid p
+{
+    margin-top: 18px;
+    margin-left: -15%;
+}
+.css_right
+{
+    float: right;
+    width: 150px;
+    border: 1px;
+    position: absolute;
+    right: 200px;
+    height: 50px;
+    top: 200px;
+}
+.css_right p
+{
+    float: right;
+    width: 250px;
+    position: absolute;
+    right: -70px;
+}
+.content_left
+{
+    float: left;
+    width: 270px;
+    position: absolute;
+    left:250px;
+    top: 350px;
+    height:50px;
+}
+.content_left p
+{
+    float: left;
+    width: 250px;
+    position: absolute;
+    left: -25px;
+    word-break: break-all;
+}
+.content_mid
+{
+    margin-top: 55px;
+    width: 150px;
+    margin-left: 50%;
+}
+.content_mid p
+{
+    margin-top: 0px;
+    word-break: break-all;
+    margin-left: -50%;
+}
+.content_right
+{
+    float: right;
+    width: 150px;
+    border: 1px;
+    position: absolute;
+    right: 200px;
+    height: 50px;
+    top: 350px;
+}
+.content_right p
+{
+    float: right;
+    width: 250px;
+    position: absolute;
+    right: -25px;
+    word-break: break-all;
+}
